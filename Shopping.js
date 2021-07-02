@@ -1,0 +1,2 @@
+var myList = [["cereal",3],["milk",2],["bananas",3],["juice",2],["egg",5]];
+console.log(myList)
